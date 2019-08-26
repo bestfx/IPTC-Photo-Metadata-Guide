@@ -5,7 +5,7 @@ A key use of metadata is to describe the content of an image. This can be done i
 Choosing terms from a standard list of values enables easier and more consistent search within a single collection or across collections. Controlled vocabularies are one form of value list.
 * Using free-text (natural language)
 
-> Read also about metadata for specific content on pages about persons, locations or other things (organisations, events, products, artwork, objects).
+> Read also about metadata for specific content on pages about [people](how-to-edit-metadata/People in the Image.md, [locations](how-to-edit-metadata/Locations.md or [other things](how-to-edit-metadata/Other Things in the Image.md (organisations, events, products, artwork, objects).
 
 #### Keyword
 
